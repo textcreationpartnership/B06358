@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whitehall, July 19. 1695. This afternoon came in several mails from Ireland, the last bringing letters of the 6th. of September.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06358</idno>
+            <idno type="STC">Wing T938A</idno>
+            <idno type="STC">ESTC R185057</idno>
+            <idno type="EEBO-CITATION">52614991</idno>
+            <idno type="OCLC">ocm 52614991</idno>
+            <idno type="VID">176224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176224)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2765:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whitehall, July 19. 1695. This afternoon came in several mails from Ireland, the last bringing letters of the 6th. of September.</title>
+               </titleStmt>
+               <extent>4. p.   </extent>
+               <publicationStmt>
+                  <publisher>by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Re-printed at Edinburgh :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Published by authority."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Politics and government --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb n="1" facs="tcp:176224:1" rendition="simple:additions"/>
+            <head>
+               <hi>Whitehall, Sept.</hi> 12. 1695. This Morning came in ſeveral Mails from <hi>Ireland,</hi> the laſt bringing Letters of the 6th. of <hi>September.</hi>
+            </head>
+            <head type="sub">
+               <hi>Publiſhed by Authority.</hi>
+            </head>
+            <div type="letters">
+               <head>
+                  <hi>Dublin, September</hi> 6. 1695.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>N the 29th. of <hi>Auguſt</hi> (the day to which the two Houſes were adjour<g ref="char:EOLhyphen"/>ned,) my Lord Deputy went again to the Houſe of Lords, with the uſual Solemnity, and the Commons being ſent for up, and ap<g ref="char:EOLhyphen"/>pearing at the Bar, Mr. <hi>Rochfort,</hi> His Majeſties Attorney-General, made the following Speech:</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe Your Excellency.</salute>
+                     </opener>
+                     <p>IN Obedience to Your Excellency's Commands the Commons of <hi>Ireland</hi> ha<g ref="char:EOLhyphen"/>ving met in their Houſe, have done me the Honour to Elect me their <hi>Speaker.</hi>
+                     </p>
+                     <p>And though I am Commanded to acquaint your Excellency with their Choice, yet the due ſenſe I have of my own Imperfections, and my ſmal Experience in Parliamentary Affairs, oblige me humbly to Addreſs to your Excellency to excuſe me from this weighty Employment, which is proper only for a Perſon of Extraordinary Abilities.</p>
+                     <p>For notwithſtanding the Obligations I am under to the Service of His Ma<g ref="char:EOLhyphen"/>jeſty, and the promoting the Publick Good of this Nation; and the juſt Re<g ref="char:EOLhyphen"/>ſpect and Deference I pay to the Judgment of the Houſe of Commons in E<g ref="char:EOLhyphen"/>lecting me their <hi>Speaker.</hi>
+                     </p>
+                     <p>I cannot but declare my unwillingneſs to accept the Honour, ſince I am ſen<g ref="char:EOLhyphen"/>ſible of my inſufficiency to diſcharge the Truſt.</p>
+                     <p>And therefore I humbly intreat your Excellency to direct them to return to their Houſe, and make Choice of a more fit Perſon for that Service.</p>
+                  </body>
+               </floatingText>
+               <div type="response">
+                  <p>Then my Lord Chancellor, by his Excellency's Command, ſaid,</p>
+                  <floatingText type="letter">
+                     <body>
+                        <opener>
+                           <salute>Mr. Attorney,</salute>
+                        </opener>
+                        <p>HIs Excellency Commands me to let you know, That if you had been a Stranger unknown to him before this time, yet what you have now ſaid to diſable your ſelf, ſhows you are too well Qualified for the Service, to which the Commons have de<g ref="char:EOLhyphen"/>ſigned you, for him to allow your Excuſe.</p>
+                        <pb n="2" facs="tcp:176224:2"/>
+                        <p>He is ſatisfyed from this, and the Experience he has had of your Prudence and Judgement in many Occaſions, That the Commons have well conſidered their own Service, in the Choice they have made of you for their Speaker; And therefore Diſal<g ref="char:EOLhyphen"/>lows your Excuſe, and Confirms their Choice, and Commands you Cheerfully to at<g ref="char:EOLhyphen"/>tend their Service.</p>
+                     </body>
+                  </floatingText>
+               </div>
+               <div type="response_to_response">
+                  <head>Mr. Speaker's Anſwer.</head>
+                  <floatingText type="letter">
+                     <body>
+                        <opener>
+                           <salute>May it pleaſe your Excellency,</salute>
+                        </opener>
+                        <p>YOur Excellency having been pleaſed to declare your Approbation of the Choice of the Honourable Houſe of Commons, and laid your Com<g ref="char:EOLhyphen"/>mands on me to attend their Service as their <hi>Speaker:</hi> I take the Confidence to aſſure your Excellency, that the preſent Conunjcture of Affairs in this King<g ref="char:EOLhyphen"/>dom does ſeem to be ſo happy, that our Enemies have no ground to hope, nor our Friends any reaſon to fear, the leaſt Breach or Diſunion among us. For I am perſwaded that every Member of both Houſes has fully reſolved to lay a<g ref="char:EOLhyphen"/>ſide all private Intereſts, and unanimouſly to endeavour with all poſſible Ap<g ref="char:EOLhyphen"/>plication and Integrity to promote the publick Welfare of their Country.</p>
+                        <p>And nothing certainly can be a greater aſſurance to us all of the happy Suc<g ref="char:EOLhyphen"/>ceſs of this Parliament, than his Majeſties Wiſdom, and gracious Pleaſure in appointing your Excellency the Chief Governour of this Kingdom; who in<g ref="char:EOLhyphen"/>herit your Fathers unparallelled Loyalty to the Crown, and your noble Bro<g ref="char:EOLhyphen"/>ther's Extraordinary Affection of this Country.</p>
+                        <p>And 'tis the general Hope, and the Expectation of us all, that what the late Earl of <hi>Eſſex,</hi> when he was in this Government, ſo obligingly deſign'd, ſo prudently contriv'd, and ſo proſperouſly begun for the publick Good and In<g ref="char:EOLhyphen"/>tereſt of this Nation; your Excellency may have the Glory of accompliſhing, and we the Happineſs of enjoying.</p>
+                        <p>As concerning my ſelf, the Commons of <hi>Ireland</hi> have been pleaſed to make Choice of one of their Country, and of joint Intereſt with them, to be their <hi>Speaker,</hi> That by my own Experience of His Majeſties extraordinary Fa<g ref="char:EOLhyphen"/>vours to this Kingdom, I might the more affectionatly return their moſt hum<g ref="char:EOLhyphen"/>ble Acknowledgements for them.</p>
+                        <p>And though I am ſenſible of my being unworthy of ſo great an Honour, and inſufficient to diſchare ſo weighty a Truſt; yet I ſhal make it my buſineſs to ſupply in ſome meaſure my want of due Qualifications, by the Faithfulneſs of my Services, and the Sincerity and Heartineſs of my Endeavours for the Publick.</p>
+                        <p>And I am the leſs concerned for my great and many Imperfections, when I conſider that this Honourable Houſe of Commons is compoſed of Perſons of ſo publick Spirits, and of ſo eminent Abilities, as will not need a <hi>Speaker</hi> of extraordinary Wiſdom to direct their Counſels, or of Experience to manage their Debates, or of Eloquence to move their Affections to the Service of His Majeſty, and the Good of their Country.</p>
+                        <p>And now having in Obedience to your Excellency's Commands, and by the Favour of the Commons of <hi>Ireland,</hi> taken upon me the Office of their <hi>Speaker,</hi> I beg leave of your Excellency to begin to diſcharge ſome part of my Truſt, by humbly Demanding in the Name of the Commons of <hi>Ireland,</hi>
+                        </p>
+                        <p>That they may have Freedom of Speech and Debate.</p>
+                        <p>And not be moleſted in their Perſons, Goods, or Attendants.</p>
+                        <pb n="3" facs="tcp:176224:2"/>
+                        <p>His Excellency being with-drawn, and the Commons return'd to their Houſe,</p>
+                        <p>The Lords Ordered, that the Thanks of this Houſe be given to the Lord-Deputy for his Excellent Speech; And a Committee having drawn up an Ad<g ref="char:EOLhyphen"/>dreſs for that purpoſe, it was agreed to by the Houſe, and preſented to his Ex<g ref="char:EOLhyphen"/>cellency the 31th of <hi>August</hi> in the Morning.</p>
+                        <p>The Commons alſo Ordered a Committee to draw up an Addreſs of Thanks to his Excellency for his Speech on the 27th of <hi>Auguſt,</hi> and having agreed to it, preſented the ſame to his Excellency the 31th in the Afternoon.</p>
+                     </body>
+                  </floatingText>
+               </div>
+            </div>
+            <div type="letters">
+               <head>Addreſs of the LORDS.</head>
+               <floatingText type="letter">
+                  <body>
+                     <p>WE the Lords Spiritual and Temporal in Parliament aſſembled attend you Ex<g ref="char:EOLhyphen"/>cellency, to pray you to return our moſt dutiful &amp; unfeigned Thanks to His moſt Excellent Majeſty, as well for the many great Benefits we have already Recei<g ref="char:EOLhyphen"/>ved, as for thoſe which by your Excellency's Speech in Parliament we find His Ma<g ref="char:EOLhyphen"/>jeſty graciouſly intends for us. And we think our ſelves obliged to expreſs our Gra<g ref="char:EOLhyphen"/>titude to your Excellency for the great Part you have had therein, and eſteem our ſelves very happy under your Excellency's Government.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>To His Excellency HENRY Lord <hi>Capell,</hi> Lord Deputy-General, and General-Governour of <hi>Ireland.</hi>
+                     </head>
+                     <head type="sub">The Humble Addreſs of the Knights, Citizens and Burgeſſes in Parliament Aſ<g ref="char:EOLhyphen"/>ſembled.</head>
+                     <opener>
+                        <salute>May it pleaſe your Excellency,</salute>
+                     </opener>
+                     <p>IT is with the higheſt ſatisfaction we are put in mind of the obligations we owe His Majeſty. The mentioning them gives us a pleaſing Remembrance of the great things the King hath done for us, and obliges us to make ſuch returns as becomes Obedient and Loyal Subjects. To His goodneſs we owe the aſſem<g ref="char:EOLhyphen"/>bling us in Parliament, where our Actions ſhall ſilence the Enemies of our Wel<g ref="char:EOLhyphen"/>fare, and ſhew us Dutiful and Grateful to His Majeſty, who in Addition to his other Gracious Favours, hath placed your Excellency in the ſole Government of this Kingdom: At once chuſing a Faithful Servant to the Crown, and one moſt acceptable to this People by perſonal Merit; and the Memory of our Hap<g ref="char:EOLhyphen"/>pineſs under the Government of your Noble Brother. And that our ſenſe of His Majeſties Great Goodneſs may not ſeem to terminate in Words only. We take leave to give your Excellency Aſſurance that we ſhall avoid all Heats and Animoſities in our Debates, and apply our ſelves to what ſhall be agreeable to His Majeſty's Expectation and for the Service of the publick, by ſupplying the deficiency of the Revenue, and propoſing ſuch Laws as may moſt contribute to the Honour of the Crown and the ſettlement of our Selves and Poſterity on the beſt and ſureſt Foundations.</p>
+                  </body>
+               </floatingText>
+               <div type="response">
+                  <p>To which His Excellency was pleaſed to Anſwer in this manner, <hi>viz.</hi>
+                  </p>
+                  <floatingText type="letter">
+                     <body>
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>I Thank you for your Addreſs, &amp; am very well ſatisfied that you approve of what I have done; I ſhall ſtedfaſtly purſue His Majeſty's Intereſt &amp; Yours which I take to be the ſame; And continue upon all occaſions to repreſent you to His Majeſty as His moſt Loyal and Faithful Subjects.</p>
+                        <p>The two Houſes ſince their firſt Meeting, have proceeded upon the Conſide<g ref="char:EOLhyphen"/>ration of ſeveral Publick Bills and other Matters.</p>
+                        <pb n="4" facs="tcp:176224:3"/>
+                        <p>On the 4th. The Houſe of Commons reſolved, <hi>Nemine Contradicente,</hi> That this Houſe will to the utmoſt of their Power, ſtand by and Aſſiſt His Majeſty and his Government, againſt all his Enemies Foreign and Domeſtick. And the ſame day reſolved in a Committee of the whole Houſe, that it was the opini<g ref="char:EOLhyphen"/>on of the ſaid Committee, that a Supply be Granted to His Majeſty, to which the Houſe agreed, <hi>Nemine Contradicente.</hi>
+                        </p>
+                        <p>Yeſterday the Commons paſſed the Bill for an Additional Duty of Exciſe, and ſent it up to the Lords.</p>
+                        <p>And this day my Lord-Deputy went in the uſual manner to the Houſe of Lords, and gave the Royal Aſſent to ſuch Bills as had paſſed the two Houſes, <hi>viz.</hi>
+                        </p>
+                        <list>
+                           <item>
+                              <hi>An Act for an Additional Duty of Exciſe upon Beer, Ale, and other Liquors.</hi>
+                           </item>
+                           <item>
+                              <hi>An Act for Taking away the Writ</hi> De Heretico Comburendo.</item>
+                           <item>
+                              <hi>An Act declaring all Attainders, and all other Acts made in the late pretended Parliament, to be void.</hi>
+                           </item>
+                           <item>
+                              <hi>An Act to reſtrain Foreign Education.</hi>
+                           </item>
+                           <item>
+                              <hi>An Act for the better ſecuring the Government, by diſarming Papiſts.</hi>
+                           </item>
+                           <item>
+                              <hi>An Act for the ſetling of Inteſtates Estates.</hi>
+                           </item>
+                        </list>
+                        <p>The Commons have reſolved on Monday next to proceed upon the Buſineſs of the Supply.</p>
+                     </body>
+                  </floatingText>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-printed at <hi>Edinburgh</hi> by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Prin<g ref="char:EOLhyphen"/>ter to His moſt Excellent Majeſty, 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
